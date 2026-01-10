@@ -18,24 +18,16 @@ CGPA: 3.80 / 4.00
 ---
 
 ## Core Skills & Technical Strengths
-- **Problem Solving:** C++, Data Structures, Algorithms (**500+ problems solved overall**)   
-- **Programming & Tools:** Python, SQL (basic), Git, GitHub  
-
----
-
-## Experience & Academic Projects
-- **Final Year Thesis — Data Analysis & Machine Learning** (2024–2025)  
-  - Thesis: *Machine Learning Approaches for Rainfall Trend Analysis: Insights from Precipitation and Meteorological Data*  
-  - Worked with real-world meteorological and precipitation datasets  
-  - Performed data preprocessing, feature analysis, and exploratory data analysis using Python  
-  - Studied machine learning techniques to identify rainfall trends and long-term patterns  
+**Programming Languages:** C++, Python, C#  
+**Web Development:** HTML, CSS, JavaScript, .NET  
+**Databases & Tools:** SQL (basic), Git, GitHub  
+**Problem Solving:** Data Structures, Algorithms, Competitive Programming (500+ problems solved)
 
 ---
 
 ## Achievements & Participation
 - **ICPC Dhaka Regional Contestant (2022)**  
 - **Participant, Undergraduate Conference on Intelligent Computing and Systems (UCICS 2025)**  
-- Solved **500+ algorithmic problems** across online judges  
 
 ---
 
