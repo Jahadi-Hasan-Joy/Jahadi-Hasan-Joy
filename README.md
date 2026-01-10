@@ -28,10 +28,3 @@ CGPA: 3.80 / 4.00
 ## Achievements & Participation
 - **ICPC Dhaka Regional Contestant (2022)**  
 - **Participant, Undergraduate Conference on Intelligent Computing and Systems (UCICS 2025)**  
-
----
-
-## Extracurricular & Technical Activities
-- Senior Member, Varendra University Programming Club (VUPC)  
-- Organized on-campus programming contests and problem-solving practice sessions  
-- Mentored junior students in competitive programming and algorithmic thinking  
