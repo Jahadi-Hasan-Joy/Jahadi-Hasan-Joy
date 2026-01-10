@@ -23,8 +23,3 @@ CGPA: 3.80 / 4.00
 **Databases & Tools:** SQL (basic), Git, GitHub  
 **Problem Solving:** Data Structures, Algorithms, Competitive Programming (500+ problems solved)
 
----
-
-## Achievements & Participation
-- **ICPC Dhaka Regional Contestant (2022)**  
-- **Participant, Undergraduate Conference on Intelligent Computing and Systems (UCICS 2025)**  
