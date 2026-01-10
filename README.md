@@ -1,6 +1,6 @@
 # MD. JAHADI HASAN JOY
 
-**Aspiring Software Engineer | Competitive Programmer | ICPC 2022 Dhaka Regionalist |Business Application & Power Apps Enthusiast**
+**Aspiring Software Engineer | Competitive Programmer | ICPC 2022 Dhaka Regionalist | Web Development (HTML, CSS, JavaScript, C# .NET)**
 
 📍 Dhaka, Bangladesh  
 📧 mdjihadihasan2551@gmail.com  
