@@ -11,7 +11,7 @@
 
 ## Education
 **B.Sc. in Computer Science and Engineering**                                             
-Varendra University, Rajshahi, Bangladesh                                                  
+**Varendra University, Rajshahi, Bangladesh**                                                  
 CGPA: 3.80 / 4.00
 ---
 
