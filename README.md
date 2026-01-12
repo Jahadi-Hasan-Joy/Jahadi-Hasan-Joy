@@ -10,10 +10,8 @@
 ---
 
 ## Education
-**B.Sc. in Computer Science and Engineering**  
-Varendra University, Rajshahi, Bangladesh  
-CGPA: 3.80 / 4.00  
-2021 – 2025
+**B.Sc. in Computer Science and Engineering**                                               CGPA: 3.80 / 4.00
+Varendra University, Rajshahi, Bangladesh                                                   2021 – 2025
 
 ---
 
