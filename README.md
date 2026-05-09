@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Jahadi Hasan Joy 👋</h1>
 
 <p align="center">
-  <b>Aspiring Data Analyst &nbsp;|&nbsp; Python & SQL &nbsp;|&nbsp; Machine Learning &nbsp;|&nbsp; Data Visualization</b>
+  <b>Aspiring Data Analyst &nbsp;|&nbsp; Python & SQL &nbsp;|&nbsp; Power BI &nbsp;|&nbsp; Machine Learning &nbsp;|&nbsp; Data Visualization</b>
 </p>
 
 <p align="center">
@@ -18,6 +18,7 @@ I'm a **Computer Science & Engineering graduate** (CGPA: 3.80/4.00) from Varendr
 
 - 🔍 Focused on **Data Analysis, EDA, and Machine Learning**
 - 📊 Love building **data visualizations** that tell compelling stories
+- 📈 Skilled in **Power BI** for building interactive dashboards and reports
 - 🧠 Strong foundation in **algorithms & problem solving** (500+ problems on Codeforces & LeetCode)
 - 🏆 **ICPC Asia Dhaka Regional 2022** contestant
 - 📄 **Published Research Paper** at UCICS 2025
@@ -30,6 +31,7 @@ I'm a **Computer Science & Engineering graduate** (CGPA: 3.80/4.00) from Varendr
 ### 📊 Data & Analytics
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
@@ -45,7 +47,7 @@ I'm a **Computer Science & Engineering graduate** (CGPA: 3.80/4.00) from Varendr
 
 ### 🔧 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
