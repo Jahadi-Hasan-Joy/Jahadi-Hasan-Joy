@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Jahadi Hasan Joy 👋</h1>
+<h1 align="center">Hi, I'm MD Jahadi Hasan Joy 👋</h1>
 
 <p align="center">
   <b>C# ASP.NET Core Developer &nbsp;|&nbsp; CSE Graduate &nbsp;|&nbsp; Competitive Programmer (ICPC Regionalist 2022)</b>
