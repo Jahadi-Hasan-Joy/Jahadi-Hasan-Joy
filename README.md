@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Jahadi Hasan Joy 👋</h1>
 
 <p align="center">
-  <b>Aspiring Data Analyst &nbsp;|&nbsp; Python & SQL &nbsp;|&nbsp; Power BI &nbsp;|&nbsp; Machine Learning &nbsp;|&nbsp; Data Visualization</b>
+  <b>C# ASP.NET Core Developer &nbsp;|&nbsp; CSE Graduate &nbsp;|&nbsp; Competitive Programmer (ICPC Regionalist 2022)</b>
 </p>
 
 <p align="center">
@@ -14,12 +14,14 @@
 
 ## 🙋‍♂️ About Me
 
-I'm a **Computer Science & Engineering graduate** (CGPA: 3.80/4.00) from Varendra University, passionate about turning raw data into meaningful insights.
+I'm a **Computer Science & Engineering graduate** (CGPA: 3.80/4.00) from Varendra University. I build backend systems and REST APIs with **C# and ASP.NET Core**, using **SQL** and **Entity Framework Core** for data handling.
 
-- 🔍 Focused on **Data Analysis, EDA, and Machine Learning**
-- 📊 Love building **data visualizations** that tell compelling stories
-- 📈 Skilled in **Power BI** for building interactive dashboards and reports
-- 🧠 Strong foundation in **algorithms & problem solving** (500+ problems on Codeforces & LeetCode)
+My background in competitive programming has sharpened my ability to break down complex problems and write clean, logical solutions — a skill I now apply directly to software development.
+
+- 💻 Main focus: **C#, ASP.NET Core, REST APIs, SQL, Entity Framework Core**
+- ⚛️ Currently expanding into **React** for full-stack development
+- 🔨 Building hands-on projects: **Expense Tracker** and **E-commerce Platform**
+- 🧠 **500+ problems** solved on Codeforces & LeetCode
 - 🏆 **ICPC Asia Dhaka Regional 2022** contestant
 - 📄 **Published Research Paper** at UCICS 2025
 - 📍 Based in Rajshahi, Bangladesh
@@ -28,45 +30,70 @@ I'm a **Computer Science & Engineering graduate** (CGPA: 3.80/4.00) from Varendr
 
 ## 🛠️ Technical Skills
 
-### 📊 Data & Analytics
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+### 💻 Backend & Web Development (Main Focus)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React_(learning)-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+### 🔧 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+### 🧮 Languages & Problem Solving
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+### 📊 Additional Skills — Data & Analytics
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
-### 💻 Programming & Development
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-
-### 🔧 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-### 🌧️ [Rainfall Prediction using ML](https://github.com/Jahadi-Hasan-Joy)
+### 🔨 In Progress (C# ASP.NET Core)
+
+#### 💰 Expense Tracker
+> Web application to track and manage personal expenses
+
+- Backend with **ASP.NET Core** and **REST API**
+- Data handling with **SQL** and **Entity Framework Core**
+- Tech: `C#` `ASP.NET Core` `EF Core` `SQL` `React`
+
+#### 🛒 E-commerce Platform
+> Full-stack online shopping platform
+
+- Product, cart, and order management through **REST APIs**
+- Data handling with **SQL** and **Entity Framework Core**
+- Tech: `C#` `ASP.NET Core` `EF Core` `SQL` `React`
+
+### ✅ Completed
+
+#### 🏢 [Business Management System](https://github.com/Jahadi-Hasan-Joy)
+> File-based CRUD system with structured data management
+
+- Built data **storage, retrieval & update operations** with optimized file handling
+- Tech: `C++` `OOP` `File Handling`
+
+#### 🌧️ [Rainfall Prediction using ML](https://github.com/Jahadi-Hasan-Joy)
 > Real-world meteorological dataset analysis and predictive modeling
 
 - Performed **data cleaning, preprocessing & EDA** using Pandas, NumPy, Matplotlib
 - Applied multiple **regression & classification ML models** for rainfall prediction
 - Achieved **86–88% accuracy** with seasonal climate behavior insights
 - Tech: `Python` `Pandas` `NumPy` `Matplotlib` `Scikit-learn`
-
-### 🏢 [Business Management System](https://github.com/Jahadi-Hasan-Joy)
-> File-based CRUD system with structured data management
-
-- Built data **storage, retrieval & update operations** with optimized file handling
-- Tech: `C++` `OOP` `File Handling`
 
 ---
 
@@ -103,7 +130,7 @@ I'm a **Computer Science & Engineering graduate** (CGPA: 3.80/4.00) from Varendr
 
 ## 🤝 Let's Connect!
 
-I'm actively looking for **Data Analyst** opportunities. If you're working on something interesting or want to collaborate — feel free to reach out!
+I'm open to **C# ASP.NET Core Developer / Software Engineer** roles. If you're working on something interesting or want to collaborate — feel free to reach out!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mdjahadihasanjoy/">
